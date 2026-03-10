@@ -32,7 +32,7 @@ function Frame2() {
 
 function Frame22() {
   return (
-    <div className="absolute bg-[#f5eae0] content-stretch flex flex-col gap-[48px] items-start justify-center left-[150px] px-[80px] py-[60px] rounded-[8px] top-[138px] w-[684px] max-[1023px]:left-4 max-[1023px]:right-4 max-[1023px]:top-6 max-[1023px]:w-auto max-[1023px]:gap-[24px] max-[1023px]:px-5 max-[1023px]:py-[60px] max-[480px]:py-[30px]">
+    <div className="absolute bg-[#f5eae0] content-stretch flex flex-col gap-[48px] items-start justify-center left-[120px] px-[80px] py-[60px] rounded-[8px] top-[138px] w-[684px] max-[1023px]:left-4 max-[1023px]:right-4 max-[1023px]:top-6 max-[1023px]:w-auto max-[1023px]:gap-[24px] max-[1023px]:px-5 max-[1023px]:py-[60px] max-[480px]:py-[30px]">
       <Frame2 />
     </div>
   );
