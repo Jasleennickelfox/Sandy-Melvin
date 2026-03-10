@@ -385,7 +385,7 @@ function Component() {
 
 function Frame19() {
   return (
-    <div className="content-stretch flex flex-col gap-[48px] items-center relative shrink-0 w-[1200px] max-[1023px]:w-full max-[1023px]:gap-[32px]">
+    <div className="content-stretch flex flex-col gap-[48px] items-center relative shrink-0 w-full max-[1023px]:w-full max-[1023px]:gap-[32px]">
       <Frame21 />
       <Component />
     </div>
