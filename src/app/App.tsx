@@ -109,7 +109,7 @@ function Frame10() {
 
 function Frame8() {
   return (
-    <div className="content-stretch flex gap-[40px] items-center relative shrink-0 w-[1200px] max-[1023px]:w-full">
+    <div className="content-stretch flex gap-[40px] items-center relative shrink-0 max-[1023px]:w-full">
       <div className="flex flex-[1_0_0] flex-row items-center self-stretch">
         <Frame10 />
       </div>
