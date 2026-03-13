@@ -40,7 +40,7 @@ function Frame22() {
 
 function Desktop3() {
   return (
-    <div className="bg-[#dcc1ac] h-[840px] overflow-clip relative shrink-0 w-full max-[1023px]:h-[600px]" data-name="Desktop - 18">
+    <div className="bg-[#dcc1ac] h-[840px] overflow-clip relative shrink-0 w-full max-[1023px]:h-[600px] max-[480px]:h-[860px]" data-name="Desktop - 18">
       <div className="absolute blur-[5px] h-[842px] left-0 top-px w-[1440px] max-[1023px]:w-full">
         <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
           <div className="absolute inset-0 opacity-56 overflow-hidden">
@@ -49,10 +49,10 @@ function Desktop3() {
           <div className="absolute bg-gradient-to-b from-[rgba(248,239,230,0.3)] inset-0 to-[rgba(178,89,0,0.3)]" />
         </div>
       </div>
-      <div className="absolute flex h-[1015px] items-center justify-center right-0 top-[-119px] w-[677px] max-[1023px]:h-[620px] max-[1023px]:w-[420px] max-[1023px]:top-[100px] max-[1023px]:-right-[140px] max-[1024px]:[position:unset] max-[1023px]:[margin-left:auto]">
+      <div className="absolute flex h-[1015px] items-center justify-center right-0 top-[-119px] w-[677px] max-[1023px]:h-[620px] max-[1023px]:w-[420px] max-[1023px]:top-[100px] max-[1023px]:-right-[140px] max-[1024px]:[position:unset] max-[1023px]:[margin-left:auto] max-[480px]:h-[430px]">
         <div className="-scale-y-100 flex-none rotate-180">
           <div className="h-[1015px] relative w-[677px] max-[1023px]:h-[620px] max-[1023px]:w-[420px]" data-name="Sandy's Picture Top of Landing Page 1">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full filter brightness-[1.4] max-[1023px]:[margin-top:-10%]" src={imgSandysPictureTopOfLandingPage1} />
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full filter brightness-[1.4] max-[1023px]:[margin-top:-10%] max-[480px]:h-[600px]" src={imgSandysPictureTopOfLandingPage1} />
           </div>
         </div>
       </div>
@@ -65,7 +65,7 @@ function Frame12() {
   return (
     <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full">
       <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[0px] text-[rgba(17,17,17,0.72)] w-full">
-        <span className="font-ysabeau font-semibold leading-[36px] text-[#ba7c2a] text-[32px]">Sandy Melvin Private Advisory</span>
+        <span className="font-ysabeau font-semibold leading-[36px] text-[#ba7c2a] text-[32px] max-[480px]:text-[22px]">Sandy Melvin Private Advisory</span>
         <span className="leading-[36px] text-[20px]">{` is a discreet, relationship-based practice that works privately with individuals and families during moments of sensitive transition, decision, or uncertainty. The work is quiet and personal: confidential, one-to-one thoughtful counsel for people navigating complex situations involving relationships, judgment, and human dynamics.`}</span>
       </p>
     </div>
