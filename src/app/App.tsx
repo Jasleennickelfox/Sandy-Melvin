@@ -52,7 +52,7 @@ function Desktop3() {
       <div className="absolute flex h-[1015px] items-center justify-center right-0 top-[-119px] w-[677px] max-[1023px]:h-[620px] max-[1023px]:w-[420px] max-[1023px]:top-[100px] max-[1023px]:-right-[140px] max-[1024px]:[position:unset] max-[1023px]:[margin-left:auto] max-[480px]:h-[430px]">
         <div className="-scale-y-100 flex-none rotate-180">
           <div className="h-[1015px] relative w-[677px] max-[1023px]:h-[620px] max-[1023px]:w-[420px]" data-name="Sandy's Picture Top of Landing Page 1">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full filter brightness-[1.4] max-[1023px]:[margin-top:-10%] max-[480px]:h-[600px]" src={imgSandysPictureTopOfLandingPage1} />
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full filter brightness-[1.4] max-[1023px]:[margin-top:-10%] max-[480px]:h-[600px] max-[480px]:[margin-top:unset]" src={imgSandysPictureTopOfLandingPage1} />
           </div>
         </div>
       </div>
