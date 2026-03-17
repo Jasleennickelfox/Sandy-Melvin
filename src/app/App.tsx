@@ -135,7 +135,7 @@ function Frame6() {
       <div className="flex flex-col items-end size-full">
         <div className="content-stretch flex flex-col gap-[16px] items-end py-[24px] relative w-full max-[1023px]:px-0">
           <p className="font-ysabeau font-bold leading-[48px] relative shrink-0 text-[#182c44] text-[40px] w-full max-[1023px]:text-[34px] max-[1023px]:leading-[40px]">Who It's For</p>
-          <p className="font-['Helvetica:Regular',sans-serif] leading-[30px] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] max-[1023px]:leading-[28px]">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgment. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
+          <p className="font-['Helvetica:Regular',sans-serif] leading-[36px] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] max-[1023px]:leading-[36px]">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgment. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
         </div>
       </div>
     </div>
