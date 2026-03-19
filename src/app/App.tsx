@@ -135,7 +135,7 @@ function Frame6() {
       <div className="flex flex-col items-end size-full">
         <div className="content-stretch flex flex-col gap-[16px] items-end py-[24px] relative w-full max-[1023px]:px-0">
           <p className="font-ysabeau font-bold leading-[48px] relative shrink-0 text-[#182c44] text-[40px] w-full max-[1023px]:text-[34px] max-[1023px]:leading-[40px]">Who It's For</p>
-          <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] ">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgement. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
+          <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgement. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
         </div>
       </div>
     </div>
@@ -189,7 +189,7 @@ function Frame23() {
   return (
     <div className="content-stretch flex gap-[24px] items-center relative shrink-0 w-full max-[1023px]:items-start">
       <Frame />
-      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:text-[18px] max-[1023px]:leading-[26px]">Clients engage the Advisory service on a limited ongoing basis</p>
+      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:leading-[26px]">Clients engage the Advisory service on a limited ongoing basis</p>
     </div>
   );
 }
@@ -211,7 +211,7 @@ function Frame24() {
   return (
     <div className="content-stretch flex gap-[24px] items-center relative shrink-0 w-full max-[1023px]:items-start">
       <Frame3 />
-      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:text-[18px] max-[1023px]:leading-[26px]">Offers discreet, confidential access to experienced guidance and support</p>
+      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:leading-[26px]">Offers discreet, confidential access to experienced guidance and support</p>
     </div>
   );
 }
@@ -243,7 +243,7 @@ function Frame25() {
   return (
     <div className="content-stretch flex gap-[24px] items-center relative shrink-0 w-full max-[1023px]:items-start">
       <Frame4 />
-      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:text-[18px] max-[1023px]:leading-[26px]">The practice is deliberately kept small and focused</p>
+      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:leading-[26px]">The practice is deliberately kept small and focused</p>
     </div>
   );
 }
@@ -267,7 +267,7 @@ function Frame26() {
   return (
     <div className="content-stretch flex gap-[24px] items-center relative shrink-0 w-full max-[1023px]:items-start">
       <Frame5 />
-      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:text-[18px] max-[1023px]:leading-[26px]">New relationships typically develop through referrals and personal conversations</p>
+      <p className="flex-[1_0_0] font-['Helvetica:Regular',sans-serif] leading-[28px] min-h-px min-w-px not-italic relative text-[20px] text-[rgba(0,0,0,0.7)] max-[1023px]:leading-[26px]">New relationships typically develop through referrals and personal conversations</p>
     </div>
   );
 }
@@ -326,7 +326,7 @@ function Frame28() {
 
 function Frame20() {
   return (
-    <div className="content-stretch flex flex-col font-['Helvetica:Regular',sans-serif] gap-[16px] items-start leading-[30px] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] max-[1023px]:leading-[28px]">
+    <div className="content-stretch flex flex-col font-['Helvetica:Regular',sans-serif] gap-[16px] items-start leading-[30px] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:leading-[28px]">
       <p className="relative shrink-0 w-full">Sandy Melvin has spent decades working closely with individuals and families, offering perspective, discretion and grounded guidance during moments that matter. Her work is rooted in deep listening, sound judgement, and long-standing relationships built on trust.</p>
       <p className="relative shrink-0 w-full">She helps clients think clearly, consider their options, and move forward with confidence. Sandy's practice is intentionally limited, allowing for thoughtful, personal engagement with each client.</p>
     </div>
