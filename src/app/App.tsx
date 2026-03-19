@@ -65,8 +65,8 @@ function Frame12() {
   return (
     <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full">
       <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[0px] text-[rgba(17,17,17,0.72)] w-full">
-        <span className="font-ysabeau font-semibold leading-[0] text-[#ba7c2a] text-[32px] max-[480px]:text-[22px] inline-block mb-[-4px]">Sandy Melvin Private Advisory</span>
-        <span className="leading-[0] text-[20px]">{` is a discreet, relationship-based practice that works privately with individuals and families during moments of sensitive transition, decision, or uncertainty. The work is quiet and personal: confidential, one-to-one thoughtful counsel for people navigating complex situations involving relationships, judgement, and human dynamics.`}</span>
+        <span className="font-ysabeau font-semibold text-[#ba7c2a] text-[32px] max-[480px]:text-[22px] inline-block mb-[-4px]">Sandy Melvin Private Advisory</span>
+        <span className="text-[20px]">{` is a discreet, relationship-based practice that works privately with individuals and families during moments of sensitive transition, decision, or uncertainty. The work is quiet and personal: confidential, one-to-one thoughtful counsel for people navigating complex situations involving relationships, judgement, and human dynamics.`}</span>
       </p>
     </div>
   );
@@ -75,7 +75,7 @@ function Frame12() {
 function Frame7() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full">
-      <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">This is an advisory relationship, not traditional consulting and coaching. Clients seek this support when decisions feel layered, emotionally charged, or consequential — and they want a trusted, experienced perspective before acting.</p>
+      <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">This is an advisory relationship, not traditional consulting and coaching. Clients seek this support when decisions feel layered, emotionally charged, or consequential — and they want a trusted, experienced perspective before acting.</p>
     </div>
   );
 }
@@ -83,7 +83,7 @@ function Frame7() {
 function Frame13() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full">
-      <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">The practice centers on relationships in all their forms: personal, professional, and the many places where the two intersect. Clients use the advisory relationship as a sounding board to think clearly, prepare for difficult conversations, and reflect afterward. The focus is not on managing situations for clients, but on helping them navigate them well — with clarity, steadiness, and intention.</p>
+      <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">The practice centers on relationships in all their forms: personal, professional, and the many places where the two intersect. Clients use the advisory relationship as a sounding board to think clearly, prepare for difficult conversations, and reflect afterward. The focus is not on managing situations for clients, but on helping them navigate them well — with clarity, steadiness, and intention.</p>
     </div>
   );
 }
@@ -91,7 +91,7 @@ function Frame13() {
 function Frame9() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0 w-full">
-      <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">Engagements are intentionally limited to a small number of clients to preserve depth of relationship, availability, and discretion. The work is built on trust and unfolds quietly.</p>
+      <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(17,17,17,0.72)] w-full">Engagements are intentionally limited to a small number of clients to preserve depth of relationship, availability, and discretion. The work is built on trust and unfolds quietly.</p>
     </div>
   );
 }
@@ -135,7 +135,7 @@ function Frame6() {
       <div className="flex flex-col items-end size-full">
         <div className="content-stretch flex flex-col gap-[16px] items-end py-[24px] relative w-full max-[1023px]:px-0">
           <p className="font-ysabeau font-bold leading-[48px] relative shrink-0 text-[#182c44] text-[40px] w-full max-[1023px]:text-[34px] max-[1023px]:leading-[40px]">Who It's For</p>
-          <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] ">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgement. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
+          <p className="font-['Helvetica:Regular',sans-serif] not-italic relative shrink-0 text-[20px] text-[rgba(0,0,0,0.6)] w-full max-[1023px]:text-[18px] ">Sandy Melvin Private Advisory works with individuals and employers who value discretion, clarity, and seasoned judgement. Most clients are accustomed to working with trusted advisors and seek a similar relationship for decisions involving people and relationships — the decisions that often matter most.</p>
         </div>
       </div>
     </div>
