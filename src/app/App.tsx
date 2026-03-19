@@ -65,7 +65,7 @@ function Frame12() {
   return (
     <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full">
       <p className="font-['Helvetica:Regular',sans-serif] leading-[0] not-italic relative shrink-0 text-[0px] text-[rgba(17,17,17,0.72)] w-full">
-        <span className="font-ysabeau font-semibold leading-[0] text-[#ba7c2a] text-[32px] max-[480px]:text-[22px]">Sandy Melvin Private Advisory</span>
+        <span className="font-ysabeau font-semibold leading-[0] text-[#ba7c2a] text-[32px] max-[480px]:text-[22px] inline-block mb-[-4px]">Sandy Melvin Private Advisory</span>
         <span className="leading-[0] text-[20px]">{` is a discreet, relationship-based practice that works privately with individuals and families during moments of sensitive transition, decision, or uncertainty. The work is quiet and personal: confidential, one-to-one thoughtful counsel for people navigating complex situations involving relationships, judgement, and human dynamics.`}</span>
       </p>
     </div>
